@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\String_Console\String_Console\bin\Debug\String_Console.exe.config
+C:\Users\HP DX\source\repos\String_Console\String_Console\bin\Debug\String_Console.exe
+C:\Users\HP DX\source\repos\String_Console\String_Console\bin\Debug\String_Console.pdb
+C:\Users\HP DX\source\repos\String_Console\String_Console\obj\Debug\String_Console.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\String_Console\String_Console\obj\Debug\String_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\String_Console\String_Console\obj\Debug\String_Console.exe
+C:\Users\HP DX\source\repos\String_Console\String_Console\obj\Debug\String_Console.pdb
